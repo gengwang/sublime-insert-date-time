@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+alt+t"], "command": "insert_date_time", "args":{"format":"f"}},
+	{ "keys": ["ctrl+alt+d"], "command": "insert_date_time", "args":{"format":"s"}}
+]

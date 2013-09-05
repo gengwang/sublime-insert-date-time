@@ -1,0 +1,11 @@
+[
+	{
+		"caption":"Date & Time",
+		"id": "td",
+		"children":
+        [
+            {"command": "insert_date_time", "caption": "Date only", "args":{"format":"s"}},
+            {"command": "insert_date_time", "caption": "Time and Date", "args":{"format":"f"}},
+        ] 
+	}
+]

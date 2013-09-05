@@ -1,0 +1,10 @@
+[
+	{
+		"id":"edit", 
+		"children":
+		[
+			{"caption":"Date & Time", "command":"insert_date_time", "args":{"format":"f"}}
+		]
+
+	}
+]

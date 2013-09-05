@@ -1,0 +1,4 @@
+[
+    { "caption": "Date & Time: Short", "command": "insert_date_time", "args":{"format":"s"} },
+    { "caption": "Date & Time: Full", "command": "insert_date_time", "args":{"format":"f"} },
+]
